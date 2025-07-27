@@ -1,12 +1,12 @@
 {
-  "name": "Neon Apis",
+  "name": "404Dev APIs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "keywords": [],
-  "author": "Yatomods",
+  "author": "404Dev",
   "license": "ISC",
   "description": "",
   "dependencies": {
