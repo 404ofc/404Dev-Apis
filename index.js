@@ -421,7 +421,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 imagem: dados.imagem,
 titulo: dados.titulo,
 desc: dados.desc,
@@ -467,7 +467,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 imagem: dados.imagem,
 titulo: dados.titulo,
 descricao: dados.descricao,
@@ -497,7 +497,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 resultado: dados
 })
 } catch (error) {
@@ -521,7 +521,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 resultado: dados
 })
 } catch (error) {
@@ -545,7 +545,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 resultado: dados
 })
 } catch (error) {
@@ -588,7 +588,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 titulo: dados.titulo,
 video: dados.url,
 imagem: dados.imagem,
@@ -616,7 +616,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 titulo: dados.titulo,
 video: dados.url_video,
 imagem: dados.imagem,
@@ -645,7 +645,7 @@ var data = await response.json()
 var dados = data.resultado;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 titulo: dados.titulo,
 video: dados.url,
 imagem: dados.imagem,
@@ -966,7 +966,7 @@ var data = await response.json();
 var text = data.resultado.resposta;
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 resposta: text
 })
 } catch (error) {
@@ -988,7 +988,7 @@ var data = await response.json();
 var text = data.resposta
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 resposta: text
 })
 } catch (error) {
@@ -1243,7 +1243,7 @@ var data = await response.json();
 var texto = data.resultado
 
 res.json({ 
-Provedor: "Neon Apis",
+Provedor: "404Dev Apis",
 resultado: texto
 })
 } catch (error) {
@@ -1266,7 +1266,7 @@ var data = await response.json();
 var texto = data.resultado
 
 res.json({ 
-Provedor: "Neon Apis",
+Provedor: "404Dev Apis",
 resultado: texto
 })
 } catch (error) {
@@ -1336,7 +1336,7 @@ var data = await response.json()
 var texto = data.resultado
 
 res.json({
-provedor: 'Neon Apis',
+provedor: '404Dev Apis',
 resultado: texto
 })
 } catch (error) {
